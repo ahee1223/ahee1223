@@ -1,3 +1,5 @@
+#for termuxs 
+
 git clone https://github.com/GitHackTools/BillCipher
 cd BillCipher
 pip install -r requirements.txt
